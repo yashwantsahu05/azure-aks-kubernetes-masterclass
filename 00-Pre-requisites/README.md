@@ -1,5 +1,5 @@
 # Pre-requisites
-1. Azure Cloud Subscription
+1. Azure Cloud Subscription1
 2. Course Github Repositories
 
 ## Step-01: Azure Cloud Subscription
